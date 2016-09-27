@@ -18,29 +18,16 @@ text-align: center;
 
 }
 
-#content1 {
- margin-left: -10px;
- margin-right: 10px; 
 
-}
-
-#content2 {
- margin-left: -10px;
- margin-right: 10px; 
-
-}
-
-
-#content3 {
-margin-left: -10px;
-margin-right: 10px; 	
-}
 
 
 div.content{
 	 border: solid 1px black;
 	 position: relative;
 	 padding-left: 0px;
+    margin-left: -10px;
+    margin-right: 10px; 
+    margin-bottom: 20px;
 		
 	 background: #A7ABB4;
 }
